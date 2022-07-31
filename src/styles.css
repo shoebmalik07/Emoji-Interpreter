@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: indianred;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 60px;
+}
+input {
+  width: 80%;
+  padding: 1rem;
+}
