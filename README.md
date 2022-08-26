@@ -1,4 +1,4 @@
-Project Link : https://f6uxkr.csb.app/
+Project Link : https://38p72r.csb.app/
 
 # Emoji-Interpreter
 In this app, You have to input emoji and it will instantly tell you the meaning of it. This app is created using ReactJS.
